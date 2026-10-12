@@ -1,0 +1,22 @@
+
+# Данные датасета
+*.csv
+*.zip
+
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Секреты и настройки
+.env
+.env.*
+
+# Системные файлы
+.DS_Store
+Thumbs.db
